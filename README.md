@@ -141,3 +141,8 @@ Se quiser, eu posso:
 - (C) gerar um arquivo ZIP com apenas o código pronto para upload.
 
 Envie a opção desejada ou o link do GitHub quando pronto e eu faço a revisão.
+
+## Artefatos e reprodutibilidade
+
+Para rastreabilidade e reprodutibilidade, há um arquivo dedicado com passos e ferramentas: [REPRODUCIBILITY.md](REPRODUCIBILITY.md#artifacts-and-reproducibility).
+Recomendo seguir os passos desse documento sempre que produzir modelos, resultados ou relatórios para garantir que qualquer entrega possa ser recriada exatamente.
