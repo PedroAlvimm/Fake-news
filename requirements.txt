@@ -1,0 +1,9 @@
+pandas
+beautifulsoup4
+datasets
+pyarrow
+scikit-learn
+matplotlib
+joblib
+pytest
+streamlit
